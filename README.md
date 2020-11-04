@@ -7,3 +7,14 @@ This is where you can include how you developed the app - installing steps.
 Adding screenshots of code can be a nice add-on for employers to see or recruiters. Be sure to include a sentence or two to describe what the code is.
 # Screenshots of the APP
 You can include this section anywhere you like - but it's nice to have some screenshots of the app in your Readme.
+# Technology Used (Example)
+HTML
+CSS
+Node.js
+Python
+AWS
+# Contributors
+Christy Rosen
+Cortney Cox
+Keyna Smith
+Kyle Brown
