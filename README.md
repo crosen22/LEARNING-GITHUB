@@ -1,6 +1,6 @@
 # ADD PROJECT/APP NAME HERE
 # Overview
-In this section you are going to want to make sure you are providing a detailed description of what the project is about or an overview of the APP.
+In this section you are going to want to make sure you are providing a detailed description of what the project is about or an overview of the application.
 # Installing
 This is where you can include how you developed the app - installing steps. 
 # Screenshots of Code
