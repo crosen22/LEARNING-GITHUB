@@ -8,7 +8,9 @@ Tip calculator with an interactive interface. This is a program that takes in in
 
 Deployed Link to App: https://bhelms2132.github.io/Tip-Calulator/ 
 # How It Works
-In this section you will walk the reader through how the app works. 
+In this section you will walk the reader through how the app works.
+
+Example:
 
 When a user enters the site, the site will record the day the invoice was issued and the due date of the payment will be two weeks from that time. These values will be populated automatically.
 
