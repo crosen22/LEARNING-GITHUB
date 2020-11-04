@@ -10,7 +10,7 @@ Deployed Link to App: https://bhelms2132.github.io/Tip-Calulator/
 # How It Works
 In this section you will walk the reader though how the app works. 
 
-When the users first enters the site the site will record as the day the invoice was issued, and the due date of the payment will be two weeks from that time. These values will be populated automatically.
+When a user enters the site, the site will record the day the invoice was issued and the due date of the payment will be two weeks from that time. These values will be populated automatically.
 
 Users are given a few fields to fill out and a number of additionall steps will occur when certain buttons are pressed. The possible input areas are:
 
