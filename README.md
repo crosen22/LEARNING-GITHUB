@@ -5,8 +5,9 @@ In this section you are going to want to make sure you are providing a detailed 
 Here is an example:
 
 Tip calculator with an interactive interface. This is a program that takes in inputs of price and tip percentage and returns the price. The tip amount will be based on the tip percentage and the total bill. The program also allows the user to split the bill and will calculate those values in terms of order price, tip amount, and total amount.
-# Add Deployed Link
-# Installing
+
+Deployed Link to App: 
+# How It Works
 This is where you can include how you developed the app - installing steps. 
 # Screenshots of Code
 Adding screenshots of code can be a nice add-on for employers to see or recruiters. Be sure to include a sentence or two to describe what the code is.
