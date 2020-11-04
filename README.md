@@ -1,12 +1,12 @@
 # Project Name or App Name
 # Overview
-In this section you are going to want to make sure you are providing a detailed description of what the project is about or an overview of the application. 
+In this section you will provide a detailed description of what the project is about or an overview of the application. 
 
 Here is an example:
 
 Tip calculator with an interactive interface. This is a program that takes in inputs of price and tip percentage and returns the price. The tip amount will be based on the tip percentage and the total bill. The program also allows the user to split the bill and will calculate those values in terms of order price, tip amount, and total amount.
 
-Deployed Link to App: 
+Deployed Link to App: https://bhelms2132.github.io/Tip-Calulator/ 
 # How It Works
 When the users first access the site, the time at which they accessed the site will be recorded as the day the invoice was issued, and the due date of the payment will be two weeks from that time. These values will be populated automatically.
 
