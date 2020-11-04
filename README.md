@@ -18,7 +18,7 @@ Payment through cash, credit, or check.
 If credit is selected, additional menus prompting the user to input their credit card and CVV number will be given. A validate button with the user's card information will then appear to allow for the user to check if their card works
 
 It just checks to make sure that the format is valid - make sure the dropdown menu matches your card provider (i.e. Visa, MasterCard)if you want to try it out!
-# Screenshots of Code
+# Screenshot of Code
 Adding screenshots of code can be a nice add-on for employers to see or recruiters. Be sure to include a sentence or two to describe what the code is.
 # Screenshots of the APP
 You can include this section anywhere you like - but it's nice to have some screenshots of the app in your Readme.
