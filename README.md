@@ -15,10 +15,12 @@ Adding screenshots of code can be a nice add-on for employers to see or recruite
 You can include this section anywhere you like - but it's nice to have some screenshots of the app in your Readme.
 # Technology Used (Example)
 HTML
+
 CSS
-Node.js
+
+React
+
 Python
-AWS
 # Contributors
 Christy Rosen
 Cortney Cox
