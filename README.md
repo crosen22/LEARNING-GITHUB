@@ -19,7 +19,7 @@ The number of individuals to split the bill can be by either: cash, credit, or c
 
 If credit is selected, a menu will prompt the user to input their credit card and CVV number. A validate button with the user's card information will then appear to allow the user to check if their card is accurate.
 
-It checks to make sure that the format is valid - make sure the drop-down menu matches he card provider (i.e. Visa, MasterCard).
+It checks to make sure the format is valid and to make sure the drop-down menu matches the card provider (i.e. Visa, MasterCard).
 # Screenshot of Code
 Adding screenshots of code can be a nice add-on for employers to see or recruiters. Be sure to include a sentence or two to describe what the code is.
 # Screenshots of the APP
