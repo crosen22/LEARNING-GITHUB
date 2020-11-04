@@ -22,7 +22,13 @@ React
 
 Python
 # Contributors
+
 Christy Rosen
-Cortney Cox
+
+Cortney Perez
+
 Keyna Smith
+
 Kyle Brown
+
+Jeff Davis
