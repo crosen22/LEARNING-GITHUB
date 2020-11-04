@@ -14,16 +14,12 @@ Example:
 
 When a user enters the site, the site will record the day the invoice was issued and the due date of the payment will be two weeks from that time. These values will be populated automatically.
 
-Users are given a few fields to fill out and a number of additional steps will occur when certain buttons are pressed. The possible input areas are:
+Users are given a few fields to fill out and a number of additional steps will occur when certain buttons are pressed. The possible input areas are Price and Tip values.
+The number of individuals to split the bill can be by either: cash, credit, or check.
 
-Price and Tip values.
-The number of individuals to split the bill by either:
+If credit is selected, a menu will prompt the user to input their credit card and CVV number. A validate button with the user's card information will then appear to allow the user to check if their card is accurate.
 
-Payment through cash, credit, or check.
-
-If credit is selected, additional menus prompting the user to input their credit card and CVV number will be given. A validate button with the user's card information will then appear to allow for the user to check if their card works
-
-It just checks to make sure that the format is valid - make sure the dropdown menu matches your card provider (i.e. Visa, MasterCard)if you want to try it out!
+It checks to make sure that the format is valid - make sure the drop-down menu matches he card provider (i.e. Visa, MasterCard).
 # Screenshot of Code
 Adding screenshots of code can be a nice add-on for employers to see or recruiters. Be sure to include a sentence or two to describe what the code is.
 # Screenshots of the APP
